@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { type File, mockFiles } from "../lib/mock-data";
+import { mockFiles } from "../lib/mock-data";
 import {
   FolderIcon,
   FileIcon,
